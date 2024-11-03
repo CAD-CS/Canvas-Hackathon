@@ -1,2 +1,2 @@
-# Canvas-Hackathon
-Canvas Discussions analyzer using sentiment analysis (includes a frontend)
+# Canvas Discussion Anazlyer
+Canvas Discussion analyzer using sentiment analysis (includes a frontend)
